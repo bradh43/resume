@@ -57,8 +57,7 @@ policies
 ## Skills, Activities & Interests
 **Technical Skills:​** Java, Python, React, Docker, AWS, swift, Flutter, JavaScript, HTML, CSS, PHP, Hadoop
 <br>
-**Activities:​** IEEE, Rock Climbing, Triathlons, Backpacking PNW, Running, and Solving Rubik’s Cubes
+**Activities:** IEEE, Rock Climbing, Triathlons, Backpacking PNW, Running, and Solving Rubik’s Cubes
 <br>
-**Interests:**​ Learning new programming languages, Raspberry Pi’s and Arduino’s
+**Interests:** Learning new programming languages, Raspberry Pi’s and Arduino’s
 <br>
-**test:** but why tho 
