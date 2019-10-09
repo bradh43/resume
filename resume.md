@@ -21,7 +21,7 @@ GitHub: bradh43
 ## Coding Experience
 > **Big Data Engineer Co op**
 > **Bayer**, St. Louis, MO        Summer 2019-Winter 2019 (AWS, Python, Docker, ELK, Jenkins)
-> * Designed and implemented the architecture for a Kibana dashboard by orchestrating data pipelines to collect metrics for key performance indicators from 10+ 3rd party  licensed applications and sources
+> * Designed and implemented the architecture for a Kibana dashboard by orchestrating data pipelines to collect metrics for key performance indicators from 10+ 3rd party  licensed applications
 > * Provided support for data scientists of our platform by completing Github tickets, as well as automating tasks with shell and python scripts
 > * Provisioned AWS services: lambda functions, s3 buckets, and ec2 instances using infrastructure as code services: serverless and terraform
 
