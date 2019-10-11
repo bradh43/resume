@@ -21,7 +21,7 @@ GitHub: bradh43
 ## Coding Experience
 > **Big Data Engineer Co op**
 > **Bayer**, St. Louis, MO        Summer 2019-Winter 2019 (AWS, Python, Docker, ELK, Jenkins)
-> * Designed and implemented the architecture for a Kibana dashboard by orchestrating data pipelines to collect metrics for key performance indicators from 10+ 3rd party  licensed applications
+> * Designed and implemented the architecture for a Kibana dashboard by orchestrating data pipelines to collect metrics for key performance indicators from 10+ 3rd party licensed applications
 > * Provided support for data scientists of our platform by completing Github tickets, as well as automating tasks with shell and python scripts
 > * Provisioned AWS services: lambda functions, s3 buckets, and ec2 instances using infrastructure as code services: serverless and terraform
 
@@ -32,6 +32,8 @@ GitHub: bradh43
 > **iD Tech Lead Instructor** - S.T.E.M Summer Camp Summer 2017 (Java, HTML, JavaScript, CSS) ​
 > * Taught weeklong courses in Java, HTML, and JavaScript sharing love of coding to class of 8 kids
 > * Created lesson plans and led a team of instructors to create a fun camp atmosphere
+
+<div class="page-break"></div>
 
 ## Additional Experience
 > **Varsity Athletics**
@@ -54,7 +56,7 @@ policies
 > * Refueled and cleaned airplanes as well as carried out inspections for both avgas and jet fuel tanks
 
 ## Skills, Activities & Interests
-**Technical Skills:​** Java, Python, React, Docker, AWS, swift, Flutter, JavaScript, HTML, CSS, PHP, Hadoop
+**Technical Skills:​** Java, Python, React, Docker, AWS, swift, Flutter, JavaScript, HTML, CSS, PHP, Hadoop, SQL
 <br>
 **Activities:** IEEE, Rock Climbing, Triathlons, Backpacking PNW, Running, and Solving Rubik’s Cubes
 <br>
