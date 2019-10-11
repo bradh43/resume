@@ -15,7 +15,7 @@ GitHub: bradh43
 > * Relevant Coursework:​ Rapid Prototype & Design, Mobile App Development, Web Development, Object Oriented Programming, and Cloud Computing with Big Data
 
 > **Pacific Lutheran University Tacoma, WA** Fall 2015-Spring 2018
-> * Completed B.A. Physics, Minor Computer Science & Math, GPA:​ 3.39/4.0 (Fall 2016, Fall 2017, Spring 2018)
+> * Completed B.A. Physics, Minor Computer Science & Math, GPA:​ 3.39/4.0 (Dean's List Fall 2016, Fall 2017, Spring 2018)
 > * Relevant Coursework:​ Data Structures, Artificial Intelligence, and Computer Organizations
 
 ## Coding Experience
