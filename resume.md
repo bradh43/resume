@@ -10,7 +10,7 @@ LinkedIn: Brad Hodkinson
 GitHub: bradh43
 
 ## Education
-> **Washington University in St. Louis St. Louis, MO** Fall 2018-Spring 2020
+> **Washington University in St. Louis St. Louis, MO** Fall 2018-Current (Graduate Winter 2020)
 > * Pursuing B.S. Computer Science, GPA:​ 3.18/4.0 (Dean's List Spring 2019)
 > * Relevant Coursework:​ Rapid Prototype & Design, Mobile App Development, Web Development, Object Oriented Programming, and Cloud Computing with Big Data
 
@@ -19,21 +19,26 @@ GitHub: bradh43
 > * Relevant Coursework:​ Data Structures, Artificial Intelligence, and Computer Organizations
 
 ## Coding Experience
-> **Big Data Engineer Co op**
-> **Bayer**, St. Louis, MO        Summer 2019-Winter 2019 (AWS, Python, Docker, ELK, Jenkins)
+> **Big Data Engineer Co-op**
+> **Bayer**, St. Louis, MO        Summer 2019-Winter 2019 (AWS, Python, Docker,  Jenkins)
 > * Designed and implemented the architecture for a Kibana dashboard by orchestrating data pipelines to collect metrics for key performance indicators from 10+ 3rd party licensed applications
 > * Provided support for data scientists of our platform by completing Github tickets, as well as automating tasks with shell and python scripts
 > * Provisioned AWS services: lambda functions, s3 buckets, and ec2 instances using infrastructure as code services: serverless and terraform
+
+> **Web/App Development**
+> **Sling Health**, St. Louis, MO        Fall 2018-Spring 2019 (React, Swift, Ethereum)
+> * Architected and deployed iOS and Webapp MVP that facilitated medical record transfers using Ethereum's blockchain smart contracts
+> * Interacted with health API's to make secure requests for patient data from data silos
 
 > **Running App**, Snohomish, WA Summer 2018 (Flutter, Dart, Firebase, GitHub)
 > * Created a running app using the Flutter framework uniting my coding and running passions
 > * Managed project, designed app using model, view, controller architecture
 
+<div class="page-break"></div>
+
 > **iD Tech Lead Instructor** - S.T.E.M Summer Camp Summer 2017 (Java, HTML, JavaScript, CSS) ​
 > * Taught weeklong courses in Java, HTML, and JavaScript sharing love of coding to class of 8 kids
-> * Created lesson plans and led a team of instructors to create a fun camp atmosphere
-
-<div class="page-break"></div>
+> * Constructed lesson plans and led a team of instructors to create a fun camp atmosphere
 
 ## Additional Experience
 > **Varsity Athletics**
